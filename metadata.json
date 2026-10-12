@@ -1,0 +1,6 @@
+{
+  "name": "Italia Immigrazione - Milano",
+  "description": "Servizio di orientamento e assistenza nelle procedure di immigrazione a Milano. Supporto qualificato, multilingue e orientamento normativo personalizzato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
